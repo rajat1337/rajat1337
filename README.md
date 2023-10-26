@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rajat Verma
+- 👀 I’m interested in making cool projects 
+- 🌱 I’m currently learning Html,Css,python and javascript 
+- 💞️ I’m looking to collaborate on projects with my friends and anyone interested 
+- 📫 How to reach me: via mail at rajatverma1337@gmail.com
